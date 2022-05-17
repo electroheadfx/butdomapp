@@ -1,0 +1,12 @@
+.svn
+.htaccess
+.DS_Store
+app/config/production/db.php
+app/config/production/config.php
+app/config/production/ormauth.php
+app/config/crypt.php
+tmp/*
+app/tmp/*
+app/cache/*
+app/logs/*
+public/media public/uploads/*

@@ -1,0 +1,41 @@
+#form_email, #form_name, #form_surname, #form_departement, #form_filleul-0, #form_filleul-1, #form_filleul-2, #form_filleul-3, #form_telephone, #form_address, #form_confirm_email {
+	width: 360px;
+	height: 30px;
+}
+
+label {
+	color: #00344d;
+}
+
+label[for=form_checkbox_0] {
+	font-size: 11px;
+}
+
+h1.but, h2.but, h3.but, h4.but {
+	color: #ce0006;
+}
+
+.reglement {
+	text-align: justify;
+}
+
+.hidden {
+	display: none;
+}
+
+.form {
+	margin-bottom: 25px;
+}
+
+h4.but {
+	margin-top: 15px;
+	text-shadow: 1px 1px 2px #fff;
+}
+
+h4.but.top {
+	margin-top: 0;
+}
+
+label {
+	text-shadow: 1px 1px 2px #fff;
+}

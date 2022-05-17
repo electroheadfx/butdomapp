@@ -1,0 +1,130 @@
+a, a:visited, a:focus, a:active, a:hover{
+    outline:0 none !important;
+    text-decoration: none !important;
+    -moz-box-sizing:none !important;
+}
+
+.container.but {
+	padding-top: 20px;
+}
+
+h5 {
+	font-weight: 600;
+}
+
+.list {
+	padding: 0 15px 0 5px;
+	text-align: center;
+}
+
+.navbar {
+	border-radius: 0;
+	margin-bottom: 0;
+	text-align: center;
+}
+
+.magasin {
+	color: #d8001e;
+}
+
+p.lead {
+	margin-bottom: 0;
+}
+
+.stat {
+	/*font-size: 16px;*/
+	margin-right: 5px;
+	margin-left: 5px;
+	margin-bottom: 10px;
+}
+
+span.glyphicon {
+	margin-right: 4px;
+}
+
+.dashboard .separator {
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+
+.api .departement {
+	font-size: 19px;
+	line-height: 1.3;
+	font-weight: lighter;
+}
+
+.departements span.label {
+	line-height: 50px;
+}
+
+.departements span.glyphicon-user {
+	font-size: 14px;
+	
+}
+
+.label.label-default {
+	background-color: #555;
+}
+
+.label, .badge {
+	margin-left: 4px;
+}
+
+.badge-inverse {
+	color: #428BCA;
+	background-color: #fff;
+}
+
+.departements {
+	margin-bottom: -5px;
+}
+
+.campagne .panel-title a {
+	color: #e3001b;
+}
+
+.campagne .panel-title a.collapsed {
+	color: #555;
+}
+
+.campagne .panel-title a.collapsed:hover {
+	text-decoration: none!important;
+	color: #206da0!important;
+}
+
+
+.panel-title {
+	font-size: 14px;
+}
+
+#myTab li.active a {
+	font-weight: bold;
+	color: white;
+	background-color: #206da0;
+}
+
+#myTab li a {
+	border: 1px solid #eee;
+	margin: 0;
+	margin-bottom: 5px;
+}
+
+#myTab {
+	border: 0;
+}
+
+.archivestats {
+	float: left;
+	width: 380px;
+}
+
+.archiveweb {
+	float: right;
+}
+
+.archiveweb .html {
+	zoom: 0.7;
+	-moz-transform: scale(0.7);
+}
+
+

@@ -1,0 +1,201 @@
+h5 {
+	font-weight: 600;
+}
+
+.list {
+	padding: 0 15px 0 5px;
+	text-align: center;
+}
+
+.navbar {
+	border-radius: 0;
+	margin-bottom: 0;
+	text-align: center;
+}
+
+.magasin {
+	color: #d8001e;
+}
+
+p.lead {
+	margin-bottom: 0;
+}
+
+span.but { color: #444;}
+span.mail {}
+span.tel {color: #666; font-size: 12px;}
+
+.departement.approved {
+	color: #5CB85C;
+}
+
+.departement.pending {
+	color: #F0AD4E;
+}
+
+.departement.refused {
+	color: #D9534F;
+}
+
+h5.departement {
+	margin-top: 15px;
+}
+
+.pagination span.glyphicon {
+	margin-bottom: 5px;
+	font-size: 12px;
+}
+
+span.glyphicon.clients, span.glyphicon.parrain {
+	color: #3c3c3c;
+	font-size: 11px;
+	margin-bottom: 2px;
+}
+
+span.glyphicon.parrain {
+	color:#3276b1 ;
+}
+
+.pagination {
+	margin: 0;
+	margin-bottom: 2px;
+}
+
+.pagination > li > a {
+	padding: 2px 8px;
+	font-size: 12px;
+}
+
+p.client {
+	margin-left: 20px;
+	margin-bottom: 3px;
+}
+
+hr.sepdep {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+hr.sepnav {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.tirage {
+	font-size: 15px;
+	color: #555;
+	margin-right: 5px;
+	margin-left: 5px;
+	top: 4px!important;
+}
+
+.pagination {
+	margin-top: 12px;
+}
+
+.subnav.loto {
+	margin-bottom: 28px;
+}
+
+.badge {
+	font-size: 11px;
+	line-height: 1.1;
+	padding-bottom: 1px;
+	padding-top: 1px;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {  
+  .badge { padding-bottom: 3px; }  
+}
+
+.badge.approved {
+	background-color: #5CB85C;
+}
+
+.badge.pending {
+	background-color: #F0AD4E;
+}
+
+.badge.refused {
+	background-color: #D9534F;
+}
+
+.invoice.approved {
+	background-color: #5CB85C;
+	color: white;
+}
+
+.invoice.pending {
+	background-color: #F0AD4E;
+	color: white;
+}
+
+.invoice.refused {
+	background-color: #D9534F;
+	color: white;
+}
+
+h4.invoice {
+	color:#ce0006;
+}
+
+.glyphicon-list-alt.list {
+	color: #555;
+}
+
+.search-area {
+	width: 336px;
+}
+
+.loto-area {
+	width: 305px;
+}
+
+input.datepicker {
+	width: 95px!important;
+	height: 30px;
+	/*margin-right: -1px;*/
+}
+
+.group-separator {
+	margin-bottom: 7px;
+}
+
+.search-area .caret {
+	height: 18px;
+}
+
+.delete-warning {
+	font-size: 14px;
+	line-height: 1.6em;
+}
+
+.deleteuser {
+	color: #aaa;
+	font-size: 11px;
+}
+
+.deleteuser:hover {
+	color: #ce0006;
+	cursor: pointer;
+}
+
+.dump {
+	margin-left: 50px;
+	margin-top: 40px;
+}
+
+#operation {
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+}
+
+.alert-dismissable .close {
+	right: 0;
+	top: 0;
+	margin-right: 15px;
+}
+
+#search {
+	width:200px;
+}

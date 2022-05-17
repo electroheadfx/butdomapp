@@ -1,0 +1,61 @@
+.list {
+	padding: 0 15px;
+	text-align: center;
+}
+
+.address {
+	text-align: right;
+	width: 300px;
+	margin-top: 80px;
+}
+
+h1.achat {
+	font-weight: bold;
+	color: #e42528;
+	text-align: center;
+	font-size: 3em;
+	margin: 0;
+	margin-bottom: 0.1em;
+}
+
+h3.cheque {
+	margin-top: 5px;
+	margin-bottom: 25px;
+}
+
+p.lead {
+	margin-bottom: 0;
+}
+
+h5.departement {
+	margin-top: 15px;
+}
+
+.loto {
+	padding: 0 15px;
+	text-align: center;
+}
+
+.loterie.error {
+	margin-bottom: 6px;
+}
+
+.reglement {
+	text-align: justify;
+}
+
+label.departement {
+	border-color: #1e4a8a;
+}
+
+label.departement:hover {
+	color: #bae9ff;
+}
+
+label.departement.active {
+	color: white;
+	background-color: #2c6aa3;
+}
+
+
+

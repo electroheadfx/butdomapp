@@ -1,0 +1,11 @@
+#form_email, #form_name, #form_surname, #form_departement, #form_filleul {
+	width: 200px;
+}
+
+label[for=form_checkbox_0] {
+	font-size: 11px;
+}
+
+h2.but {
+	color: #ce0006;
+}
